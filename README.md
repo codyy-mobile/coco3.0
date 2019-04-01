@@ -34,9 +34,9 @@ allprojects {
 }
 //app
 dependencies {
-    implementation 'com.codyy.mobile:coco3.0:1.0.8'
+    implementation 'com.github.codyy-mobile:coco3.0:1.1.0'
 }
 ```
 
 ### <font color="red">注意事项</font>
-如果主工程中包含此<font color="red">'org.java-websocket:Java-WebSocket:1.3.9'</font> websocket库引用，请在引用'com.codyy.mobile:coco3.0:1.0.8'<font color="red">将websocket库剔除</font>
+如果主工程中包含此<font color="red">'org.java-websocket:Java-WebSocket:1.3.9'</font> websocket库引用，请在引用'com.github.codyy-mobile:coco3.0:1.1.0'<font color="red">将websocket库剔除</font>
