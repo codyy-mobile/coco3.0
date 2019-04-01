@@ -29,7 +29,7 @@ gradle clean build uploadArchives
 // gradle 全局配置增加maven 私有地址
 allprojects {
     repositories {
-        maven { url 'http://maven.5idoo.com/nexus/content/groups/mobile/' }
+        maven { url 'https://jitpack.io' }
     }
 }
 //app
