@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/codyy-mobile/coco3.0.svg)](https://jitpack.io/#codyy-mobile/coco3.0)
 
 ### COCO bind
 ```
